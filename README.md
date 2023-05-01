@@ -10,6 +10,7 @@
 
 **Colab:**
 - https://colab.research.google.com/drive/1UUAdt69Z1P4PHJbkqOmJMYEcwzwtZ3jy?usp=sharing
+- Aviso: sempre executar novamente as células do Jupyter Slider antes de interagir com valores
 
 ---
 **Especificação:**
